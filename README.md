@@ -61,3 +61,6 @@ The tests open Edge, run the steps, and close it. Running all three takes about 
 
 - All users use the password `secret_sauce`.
 - The bug report and test plan are in this repository.
+
+
+[text](../../Downloads/Bug_Report_Final.pdf)
