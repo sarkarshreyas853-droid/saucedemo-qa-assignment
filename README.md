@@ -63,4 +63,3 @@ The tests open Edge, run the steps, and close it. Running all three takes about 
 - The bug report and test plan are in this repository.
 
 
-[text](../../Downloads/Bug_Report_Final.pdf)
